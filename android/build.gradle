@@ -48,6 +48,6 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.facebook.react:react-native:+'
+    implementation 'com.facebook.react:react-native:0.69.6'
     implementation 'com.koushikdutta.async:androidasync:2.1.6'
 }
